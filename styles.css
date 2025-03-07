@@ -581,7 +581,7 @@ height: 100%;
         width: 94%;
         text-align: right;
     
-        font-size: 15px;
+        font-size: 14px;
         color: #ffffff;
       }
   
@@ -597,4 +597,8 @@ height: 100%;
         margin: 20px auto;  /* المسافة من الأعلى والأسفل */
       }
       
-      
+      @media (max-width: 834px){
+        .pp p{
+            font-size: 12px;
+        }
+      }
