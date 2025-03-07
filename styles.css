@@ -362,6 +362,11 @@ margin-right: 40px;
 }
 
 @media (max-width: 834px) {
+    .text-contenar2{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
     .texth2{
         margin-top: 80px;
          margin-bottom: 20px;
@@ -440,6 +445,7 @@ height: 100%;
     -webkit-text-fill-color: transparent;  top: 0;
 }
 .text-progct1 h4{
+    text-align: right;
     font-size: 15px;
     max-width: 700px;
     margin: 15px;
@@ -499,6 +505,7 @@ height: 100%;
     margin-bottom: 10px;
 }
 .text-progct2 h5{
+    
     font-size: 50px;
     margin-top: 0;
     margin-bottom: 30px;
