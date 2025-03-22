@@ -157,28 +157,6 @@ body{
     }
 }
 
-a{
-  color: #1f53ff;
-}
-p {
-    margin-top: 1%;
-  font-size: 18px;
-  color: #ffffff;
-  text-align: center;
-}
-
-.header + p {
-  margin-top: 40px; /* Adjust this value as needed */
-}
-
-@media (max-width: 800px) {
-  p {
-      margin: 20px;
-      margin-top: 5%;
-      font-size: 14px;
-  }
-}
-
 
 
 .contenar1 {
