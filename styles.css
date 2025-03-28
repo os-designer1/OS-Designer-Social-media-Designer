@@ -431,7 +431,7 @@ padding: 150px 50px;
     font-size: 60px;
 }
 .img-aput{
-width: 85%;
+width: 60%;
 border-radius: 20px;
 margin: 10px 0 20px 0;
 }
@@ -451,6 +451,10 @@ margin: 10px 0 20px 0;
      }
      .aput-pac h3{
         font-size: 20px;
+     }
+     .img-aput{
+        width: 80%;
+
      }
 }
 .footer {
